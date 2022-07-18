@@ -3,7 +3,7 @@
 <p align="center"> <img alt="Coding" width="400" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prakratisingh&label=Profile%20views&color=0e75b6&style=flat" alt="prakratisingh" /> </p>
 <p align="center"> 📫 Email id: sprakriti25.sp@gmail.com </p>
-<p align="left"> <a href="https://twitter.com/prxkrati" target="blank"><img src="https://img.shields.io/twitter/follow/prxkrati?logo=twitter&style=for-the-badge" alt="prxkrati" /></a> </p>
+<p align="center"> <a href="https://twitter.com/prxkrati" target="blank"><img src="https://img.shields.io/twitter/follow/prxkrati?logo=twitter&style=for-the-badge" alt="prxkrati" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/prxkrati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prxkrati" height="30" width="40" /></a>
